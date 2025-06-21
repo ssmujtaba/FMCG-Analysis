@@ -31,7 +31,8 @@ The final report consists of five distinct pages, each designed to answer a spec
 
 ### 1. 📈 Key Performance Indicators (KPI) Overview
 
-![KPI Overview Page] <img width="1280" alt="1" src="https://github.com/user-attachments/assets/4eec0819-a4dd-4b35-b258-cbf71a488c73" />
+<img width="1280" alt="1" src="https://github.com/user-attachments/assets/4eec0819-a4dd-4b35-b258-cbf71a488c73" />
+
 **Purpose**: To provide a high-level executive summary of the business's overall health at a glance.
 
 **Key Insights & Visuals**:
@@ -44,8 +45,7 @@ The final report consists of five distinct pages, each designed to answer a spec
 
 ### 2. 🏢 Branch Performance
 
-![Branch Performance Page] <img width="1280" alt="1" src="https://github.com/user-attachments/assets/f1728149-50aa-414a-b4dc-6d55b52fb3d5" />
-
+<img width="1280" alt="1" src="https://github.com/user-attachments/assets/f1728149-50aa-414a-b4dc-6d55b52fb3d5" />
 
 **Purpose**: To analyze and compare the sales and profitability of the supermarket's different city branches.
 
@@ -58,8 +58,7 @@ The final report consists of five distinct pages, each designed to answer a spec
 
 ### 3. 📦 Product Performance
 
-![Product Performance Page] <img width="1280" alt="1" src="https://github.com/user-attachments/assets/8c171150-90ef-46af-9541-ff6b54b51f16" />
-
+<img width="1280" alt="1" src="https://github.com/user-attachments/assets/8c171150-90ef-46af-9541-ff6b54b51f16" />
 
 **Purpose**: To understand which product categories are driving revenue and sales volume.
 
@@ -71,8 +70,7 @@ The final report consists of five distinct pages, each designed to answer a spec
 
 ### 4. ⏰ Time Trends
 
-![Time Trends Page] <img width="1280" alt="1" src="https://github.com/user-attachments/assets/f92cc22e-4fb8-4a6b-b671-f259907f3017" />
-
+<img width="1280" alt="1" src="https://github.com/user-attachments/assets/f92cc22e-4fb8-4a6b-b671-f259907f3017" />
 
 **Purpose**: To analyze sales patterns over different time granularities (monthly and daily).
 
@@ -84,8 +82,7 @@ The final report consists of five distinct pages, each designed to answer a spec
 
 ### 5. 👥 Customer Insights
 
-![Customer Insights Page] <img width="1280" alt="1" src="https://github.com/user-attachments/assets/20745331-cadb-4922-a29f-d7f5ec69cb5c" />
-
+<img width="1280" alt="1" src="https://github.com/user-attachments/assets/20745331-cadb-4922-a29f-d7f5ec69cb5c" />
 
 **Purpose**: To perform a deep-dive analysis into the purchasing behavior of different customer segments, specifically by gender.
 
